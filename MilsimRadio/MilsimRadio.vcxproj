@@ -129,7 +129,6 @@
     <ClInclude Include="BootCode.h" />
     <ClInclude Include="color.h" />
     <ClInclude Include="console.h" />
-    <ClInclude Include="Logger.h" />
     <ClInclude Include="var.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
